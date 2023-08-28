@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: grey;
+    font-size: 18px;
+}
+
+/* Responsiveness :  */
+/* For mobile phones: ~800px */
+/* For Tablets : 800~1000px */
+/* For Laptops : 1000~1200px */
+/* For 4k Display : 1200px */

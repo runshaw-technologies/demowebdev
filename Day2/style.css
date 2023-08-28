@@ -1,0 +1,57 @@
+/* Syntax: */
+
+/* Selectors */
+/* 1. Element Selector */
+
+
+/* content/comment */
+/* property: value */
+
+/* Color */
+/* RGB values */
+/* HEX */
+
+body {
+    /* color: steelblue;
+    color: #000; */
+
+    /* RGB */
+    /* color: rgb(255,99,71); */
+
+    /* HEX */
+    /* color: #000000;
+    color: #fff; */
+
+
+    /* background */
+    /* background-color: lightgreen;
+    background-image: none;
+    background-repeat: unset; */
+
+    /* border */
+    border: dashed #000 1px;
+
+    /* Margin */
+    margin: 100px;
+
+    /* Padding  Top Right Bottom Left */
+    padding: 60px 30px 20px 10px;
+
+    /* Width / Height */
+    width: 100px;
+    height: 100vh;
+    /* vh: vertical height */
+
+    align-items: end;
+
+    /* Font */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+    /* Display */
+    /* display: none; */
+
+    /* align */
+    align-content: space-between;
+
+}
